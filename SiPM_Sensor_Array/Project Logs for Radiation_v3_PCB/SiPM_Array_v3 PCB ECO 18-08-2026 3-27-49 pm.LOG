@@ -1,0 +1,20 @@
+Added Component: Designator=R1(RESC2012X60N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CR0805-FX-2001ELF/Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CR0805-FX-2001ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CR0805-FX-2001ELF/Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC2012X60N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CR0805-FX-2001ELF/Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CR0805-FX-2001ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CR0805-FX-2001ELF/Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=3V3 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Member To Class: ClassName=SiPM_Array_v3 Member=Component R1 CR0805-FX-2001ELF
+Added Member To Class: ClassName=SiPM_Array_v3 Member=Component R2 CR0805-FX-2001ELF

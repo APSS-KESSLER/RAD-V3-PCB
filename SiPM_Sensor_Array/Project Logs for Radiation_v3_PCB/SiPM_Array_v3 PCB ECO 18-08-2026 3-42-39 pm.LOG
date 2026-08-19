@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VBR Pin=J2-1
+Removed Pin From Net: NetName=VBR Pin=J3-2
+Removed Pin From Net: NetName=SCL Pin=J3-12
+Added Pin To Net: NetName=SCL Pin=J2-1
+Added Pin To Net: NetName=SDA Pin=J3-2
+Added Member To Class: ClassName=SiPM_Array_v3 Member=Component B2 S14160-3050HS
+Added Member To Class: ClassName=SiPM_Array_v3 Member=Component B3 S14160-3050HS

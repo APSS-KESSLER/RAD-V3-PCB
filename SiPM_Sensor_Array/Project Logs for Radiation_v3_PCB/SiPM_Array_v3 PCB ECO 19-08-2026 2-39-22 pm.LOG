@@ -1,0 +1,63 @@
+Added Component: Designator=3V3(KEYSTONE_5267)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5267/Keystone/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5267"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5267/Keystone/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=GND(KEYSTONE_5267)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5267/Keystone/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5267"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5267/Keystone/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SCL(KEYSTONE_5267)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5267/Keystone/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5267"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5267/Keystone/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SDA(KEYSTONE_5267)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5267/Keystone/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5267"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5267/Keystone/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VAN1(KEYSTONE_5267)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5267/Keystone/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5267"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5267/Keystone/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VAN2(KEYSTONE_5267)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5267/Keystone/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5267"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5267/Keystone/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VBR(KEYSTONE_5267)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5267/Keystone/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5267"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5267/Keystone/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=3V3-TP
+Added Pin To Net: NetName=GND Pin=GND-TP
+Added Pin To Net: NetName=SCL Pin=SCL-TP
+Added Pin To Net: NetName=SDA Pin=SDA-TP
+Added Pin To Net: NetName=VAN1 Pin=VAN1-TP
+Added Pin To Net: NetName=VAN2 Pin=VAN2-TP
+Added Pin To Net: NetName=VBR Pin=VBR-TP
+Added Member To Class: ClassName=SiPM_Array_v3 Member=Component 3V3 5267
+Added Member To Class: ClassName=SiPM_Array_v3 Member=Component GND 5267
+Added Member To Class: ClassName=SiPM_Array_v3 Member=Component SCL 5267
+Added Member To Class: ClassName=SiPM_Array_v3 Member=Component SDA 5267
+Added Member To Class: ClassName=SiPM_Array_v3 Member=Component VAN1 5267
+Added Member To Class: ClassName=SiPM_Array_v3 Member=Component VAN2 5267
+Added Member To Class: ClassName=SiPM_Array_v3 Member=Component VBR 5267

@@ -1,0 +1,109 @@
+Added Component: Designator=B2(S141603050HS)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.hamamatsu.com/content/dam/hamamatsu-photonics/sites/documents/99_SALES_LIBRARY/ssd/s14160_s14161_series_kapd1064e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Hamamatsu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "S14160-3050HS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B3(S141603050HS)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.hamamatsu.com/content/dam/hamamatsu-photonics/sites/documents/99_SALES_LIBRARY/ssd/s14160_s14161_series_kapd1064e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Hamamatsu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "S14160-3050HS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B4(SOTFL50P160X60-6N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TMP112AQDRLRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tmp112aqdrlrq1/texas-instruments?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/tmp112-q1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TMP112AQDRLRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TMP112AQDRLRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TMP112AQDRLRQ1?qs=asCBFxFfL1Q5YmJCm%252BGnCQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J2(CONN_DF173.0-20DS-0.5V57_HIR)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Hirose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DF17(3.0)-20DS-0.5V(57)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=J3(CONN_DF173.0-20DS-0.5V57_HIR)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Hirose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DF17(3.0)-20DS-0.5V(57)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=B4-2
+Added Pin To Net: NetName=GND Pin=B4-3
+Added Pin To Net: NetName=GND Pin=B4-4
+Added Pin To Net: NetName=3V3 Pin=B4-5
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=3V3 Pin=J2-7
+Added Pin To Net: NetName=GND Pin=J2-8
+Added Pin To Net: NetName=GND Pin=J2-10
+Added Pin To Net: NetName=GND Pin=J2-12
+Added Pin To Net: NetName=GND Pin=J2-13
+Added Pin To Net: NetName=GND Pin=J2-14
+Added Pin To Net: NetName=GND Pin=J2-15
+Added Pin To Net: NetName=GND Pin=J2-16
+Added Pin To Net: NetName=GND Pin=J2-17
+Added Pin To Net: NetName=GND Pin=J2-18
+Added Pin To Net: NetName=GND Pin=J2-19
+Added Pin To Net: NetName=GND Pin=J2-20
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=GND Pin=J3-7
+Added Pin To Net: NetName=3V3 Pin=J3-8
+Added Pin To Net: NetName=GND Pin=J3-9
+Added Pin To Net: NetName=GND Pin=J3-11
+Added Pin To Net: NetName=GND Pin=J3-13
+Added Pin To Net: NetName=GND Pin=J3-14
+Added Pin To Net: NetName=GND Pin=J3-15
+Added Pin To Net: NetName=GND Pin=J3-16
+Added Pin To Net: NetName=GND Pin=J3-17
+Added Pin To Net: NetName=GND Pin=J3-18
+Added Pin To Net: NetName=GND Pin=J3-19
+Added Pin To Net: NetName=GND Pin=J3-20
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-2
+Added Pin To Net: NetName=SCL Pin=B4-1
+Added Pin To Net: NetName=SCL Pin=J3-12
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=B4-6
+Added Pin To Net: NetName=SDA Pin=J2-11
+Added Net: Name=SDA
+Added Pin To Net: NetName=VAN1 Pin=B2-B2
+Added Pin To Net: NetName=VAN1 Pin=J2-9
+Added Net: Name=VAN1
+Added Pin To Net: NetName=VAN2 Pin=B3-B2
+Added Pin To Net: NetName=VAN2 Pin=J3-10
+Added Net: Name=VAN2
+Added Pin To Net: NetName=VBR Pin=B2-A1
+Added Pin To Net: NetName=VBR Pin=B2-A3
+Added Pin To Net: NetName=VBR Pin=B2-C1
+Added Pin To Net: NetName=VBR Pin=B2-C3
+Added Pin To Net: NetName=VBR Pin=B3-A1
+Added Pin To Net: NetName=VBR Pin=B3-A3
+Added Pin To Net: NetName=VBR Pin=B3-C1
+Added Pin To Net: NetName=VBR Pin=B3-C3
+Added Pin To Net: NetName=VBR Pin=J2-1
+Added Pin To Net: NetName=VBR Pin=J2-3
+Added Pin To Net: NetName=VBR Pin=J2-5
+Added Pin To Net: NetName=VBR Pin=J3-2
+Added Pin To Net: NetName=VBR Pin=J3-4
+Added Pin To Net: NetName=VBR Pin=J3-6
+Added Net: Name=VBR
+Added Class: Name=SiPM_Array_v3
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7

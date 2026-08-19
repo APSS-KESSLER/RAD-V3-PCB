@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VBR Pin=J2-5
+Removed Pin From Net: NetName=GND Pin=J2-16
+Removed Pin From Net: NetName=GND Pin=J3-16
+Added Pin To Net: NetName=VBR Pin=J2-16
+Added Pin To Net: NetName=VBR Pin=J3-16
