@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [SiPM_Array_v3.PcbDoc]
+   Generated File[DesignName-BoardRevision-NC Drill.TXT]
+   Generated File[DesignName-BoardRevision-NC Drill.LDP]
+   Generated File[DesignName-BoardRevision-NC Drill.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:48:30 pm On 20/08/2026

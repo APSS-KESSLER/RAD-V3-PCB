@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 8:50:05 pm On 20/08/2026
+
+Output: Bill of Materials
+Type  : BOM
+From  : Project [Radiation_v3_PCB.PrjPcb]
+   Generated File[DesignName-BoardRevision-BOM.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:50:07 pm On 20/08/2026

@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 8:55:07 pm On 20/08/2026
+
+Output: Generate pick and place files
+Type  : Pick Place
+From  : PCB Document [SiPM_Array_v3.PcbDoc]
+   Generated File[SiPM_Array-V1-Pick Place.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:55:08 pm On 20/08/2026

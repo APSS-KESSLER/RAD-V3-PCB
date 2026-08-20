@@ -1,0 +1,28 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\ffff\RAD-V3-PCB\SiPM_Sensor_Array\Outjob-Outputs\Fabrication Files\Pick Place\SiPM_Array-V1-Pick Place.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       20/08/26
+Time:       20:55
+Revision:   8ebab1f19f356a50c90067669e7251623f55c01b
+Variant:    No variations
+Units used: mil
+
+Designator Comment                 Layer       Footprint                    Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                                                                                                
+B1         S14160-3050HS           BottomLayer S141603050HS                 496.693       868.307       180      "The S14160 series achieve higher PDE (photon detection efficiency) and lower operation voltage than other MPPC to adapt for PET and radiation monitor application.-Higher PDE: 50% at p, Vop=VBR + 2.7 V" 
+B2         S14160-3050HS           BottomLayer S141603050HS                 495.000       685.000       180      "The S14160 series achieve higher PDE (photon detection efficiency) and lower operation voltage than other MPPC to adapt for PET and radiation monitor application.-Higher PDE: 50% at p, Vop=VBR + 2.7 V" 
+C1         100uF                   TopLayer    CAPACITOR_0805_2012M-70N     410.000       642.008       270      "Passive - Capacitor, 0805, 100uF Max, X5R, 6.3V ±20%, -55°C ~ 85°C, 0805 (2012 Metric). 20uF @ 6.3V"                                                                                                      
+VBR        5267                    TopLayer    KEYSTONE_5267                925.000       820.000       0        "TEST POINT (BLUE) - MINIATURE"                                                                                                                                                                            
+VAN2       5267                    TopLayer    KEYSTONE_5267                305.000       880.000       90       "TEST POINT (BLUE) - MINIATURE"                                                                                                                                                                            
+VAN1       5267                    TopLayer    KEYSTONE_5267                305.000       1020.000      0        "TEST POINT (BLUE) - MINIATURE"                                                                                                                                                                            
+SDA        5267                    TopLayer    KEYSTONE_5267                510.000       250.000       0        "TEST POINT (BLUE) - MINIATURE"                                                                                                                                                                            
+SCL        5267                    TopLayer    KEYSTONE_5267                630.000       180.000       0        "TEST POINT (BLUE) - MINIATURE"                                                                                                                                                                            
+GND        5267                    TopLayer    KEYSTONE_5267                270.000       165.000       0        "TEST POINT (BLUE) - MINIATURE"                                                                                                                                                                            
+3V3        5267                    TopLayer    KEYSTONE_5267                390.000       250.000       0        "TEST POINT (BLUE) - MINIATURE"                                                                                                                                                                            
+R2         CR0805-FX-2001ELF       TopLayer    RESC2012X60N                 525.000       395.000       90       "Res 0805 2k 1% 125mW | Bourns CR0805-FX-2001ELF"                                                                                                                                                          
+R1         CR0805-FX-2001ELF       TopLayer    RESC2012X60N                 444.842       395.000       90       "Res 0805 2k 1% 125mW | Bourns CR0805-FX-2001ELF"                                                                                                                                                          
+J3         DF17(3.0)-20DS-0.5V(57) TopLayer    CONN_DF173.0-20DS-0.5V57_HIR 140.000       515.000       90       Description                                                                                                                                                                                                
+J2         DF17(3.0)-20DS-0.5V(57) TopLayer    CONN_DF173.0-20DS-0.5V57_HIR 840.197       512.795       90       Description                                                                                                                                                                                                
+U1         TMP112AQDRLRQ1          TopLayer    DRL0006A                     495.000       560.000       180      "No Description Available"                                                                                                                                                                                 
