@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=SDA Pin=J2-11
+Change Component Description : Designator=R1 Old Description=Res 0805 2k 1% 125mW New Description=Res 0805 2k 1% 125mW | Bourns CR0805-FX-2001ELF
+Change Component Description : Designator=R2 Old Description=Res 0805 2k 1% 125mW New Description=Res 0805 2k 1% 125mW | Bourns CR0805-FX-2001ELF
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Class Member: Failed to add class member : Component C1 *
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6

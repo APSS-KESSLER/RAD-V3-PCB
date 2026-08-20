@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=VBR Pin=B2-A1
+Removed Pin From Net: NetName=VBR Pin=B2-A3
+Removed Pin From Net: NetName=VAN1 Pin=B2-B2
+Removed Pin From Net: NetName=VBR Pin=B2-C1
+Removed Pin From Net: NetName=VBR Pin=B2-C3
+Removed Pin From Net: NetName=VBR Pin=B3-A1
+Removed Pin From Net: NetName=VBR Pin=B3-A3
+Removed Pin From Net: NetName=VAN2 Pin=B3-B2
+Removed Pin From Net: NetName=VBR Pin=B3-C1
+Removed Pin From Net: NetName=VBR Pin=B3-C3
+Removed Member From Class: ClassName=SiPM_Array_v3 Member=B2
+Removed Member From Class: ClassName=SiPM_Array_v3 Member=B3
+Added Component: Designator=B?(S141603050HS)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.hamamatsu.com/content/dam/hamamatsu-photonics/sites/documents/99_SALES_LIBRARY/ssd/s14160_s14161_series_kapd1064e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Hamamatsu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "S14160-3050HS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B?(S141603050HS)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.hamamatsu.com/content/dam/hamamatsu-photonics/sites/documents/99_SALES_LIBRARY/ssd/s14160_s14161_series_kapd1064e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Hamamatsu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "S14160-3050HS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBR Pin=B?-A1
+Added Pin To Net: NetName=VBR Pin=B?-A1
+Added Pin To Net: NetName=VBR Pin=B?-A3
+Added Pin To Net: NetName=VBR Pin=B?-A3
+Added Pin To Net: NetName=VAN1 Pin=B?-B2
+Added Pin To Net: NetName=VAN2 Pin=B?-B2
+Added Pin To Net: NetName=VBR Pin=B?-C1
+Added Pin To Net: NetName=VBR Pin=B?-C1
+Added Pin To Net: NetName=VBR Pin=B?-C3
+Added Pin To Net: NetName=VBR Pin=B?-C3
+Added Member To Class: ClassName=SiPM_Array_v3 Member=Component B? S14160-3050HS
+Added Member To Class: ClassName=SiPM_Array_v3 Member=Component B? S14160-3050HS
