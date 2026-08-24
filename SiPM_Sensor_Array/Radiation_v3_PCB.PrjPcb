@@ -50,6 +50,40 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=SiPM_Array_v3.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RGTYEYGT
+
+[Document2]
+DocumentPath=SiPM_Array_v3.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FJTBQDBX
+
+[Document3]
 DocumentPath=SiPMSensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -66,8 +100,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GKXIZPKM
 
-[Document2]
-DocumentPath=..\..\..\..\eejl609\OneDrive - The University of Auckland\LIB_S14160-6050HS\S14160-6050HS\Altium\S141606050HS.PcbLib
+[Document4]
+DocumentPath=..\..\..\..\..\..\eejl609\OneDrive - The University of Auckland\LIB_S14160-6050HS\S14160-6050HS\Altium\S141606050HS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -83,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AJOHGKWJ
 
-[Document3]
+[Document5]
 DocumentPath=..\..\..\..\eejl609\OneDrive - The University of Auckland\ul_LTC6401IUD-26-TR\Altium\LTC6401IUD-26TR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WGAAXVSO
 
-[Document4]
+[Document6]
 DocumentPath=..\..\..\..\eejl609\OneDrive - The University of Auckland\ul_LTC6401IUD-26-TR\Altium\LTC6401IUD-26TR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ICJGVTXP
 
-[Document5]
+[Document7]
 DocumentPath=..\..\..\..\eejl609\Downloads\DF17_1.0H_-80DP-0.5V_57_.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,8 +168,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
-DocumentPath=SiPMSensorPCB.PcbDoc
+[Document8]
+DocumentPath=..\Libraries\Standard Part Libraries\APSS Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -149,7 +183,546 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DJAJPBUJ
+DocumentUniqueId=FVFWZRJI
+
+[Document9]
+DocumentPath=..\Libraries\Standard Part Libraries\APSS Flight Parts.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SSBCEPVD
+
+[Document10]
+DocumentPath=..\Libraries\Standard Part Libraries\APSS Generic Components.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PLQBJHHT
+
+[Document11]
+DocumentPath=..\Libraries\Standard Part Libraries\APSS Prototype Parts.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XCKFJLIN
+
+[Document12]
+DocumentPath=..\Libraries\Standard Part Libraries\APSS Connectors.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document13]
+DocumentPath=..\Libraries\Standard Part Libraries\APSS Flight Parts.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document14]
+DocumentPath=..\Libraries\Standard Part Libraries\APSS Generic Components.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document15]
+DocumentPath=..\Libraries\Standard Part Libraries\APSS Prototype Parts.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document16]
+DocumentPath=..\..\..\..\..\..\eejl609\OneDrive - The University of Auckland\LIB_S14160-6050HS\S14160-6050HS\Altium\S14160-6050HS.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AMCKPSBY
+
+[Document17]
+DocumentPath=..\..\..\..\..\..\eejl609\OneDrive - The University of Auckland\S14160-3050HS\Altium\S14160-3050HS.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BQNYEQQH
+
+[Document18]
+DocumentPath=..\..\..\..\..\..\eejl609\OneDrive - The University of Auckland\S14160-3050HS\Altium\S141603050HS.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AYDJRFMD
+
+[Document19]
+DocumentPath=..\..\..\..\..\..\eejl609\OneDrive - The University of Auckland\LIB_TMP112AQDRLRQ1\TMP112AQDRLRQ1\Altium\SOTFL50P160X60-6N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BVVWZISF
+
+[Document20]
+DocumentPath=..\..\..\..\..\..\eejl609\OneDrive - The University of Auckland\LIB_TMP112AQDRLRQ1\TMP112AQDRLRQ1\Altium\TMP112AQDRLRQ1.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ALYYYXRC
+
+[Document21]
+DocumentPath=..\..\..\..\..\..\eejl609\Downloads\APSS3Rad.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document22]
+DocumentPath=..\..\..\..\..\..\eejl609\Downloads\APSS3Rad.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TMGVVELM
+
+[Document23]
+DocumentPath=..\Outputs.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document24]
+DocumentPath=..\..\..\..\..\..\eejl609\OneDrive - The University of Auckland\LIB_S14160-6050HS\S14160-6050HS\Altium\Sensor_Processing.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IHYPDVIB
+
+[Document25]
+DocumentPath=..\Libraries\LTC6401IUD-26TR.LibPkg
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document26]
+DocumentPath=..\Libraries\ul_LTC6401IUD-26-TR\Altium\LTC6401IUD-26TR.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document27]
+DocumentPath=..\Libraries\ul_LTC6401IUD-26-TR\Altium\LTC6401IUD-26TR.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=..\Outjob-Outputs\BOM\DesignName-BoardRevision-BOM.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Outjob-Outputs\Fabrication Files\BOM\DesignName-BoardRevision-BOM.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=..\Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=..\Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=..\Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=..\Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=..\Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=..\Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=..\Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=..\Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=..\Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=..\Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=..\Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=..\Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.REP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.REP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=..\Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\DesignName-BoardRevision-Gerber.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=..\Outjob-Outputs\Fabrication Files\NC Drill\DesignName-BoardRevision-NC Drill.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Outjob-Outputs\Fabrication Files\NC Drill\DesignName-BoardRevision-NC Drill.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=..\Outjob-Outputs\Fabrication Files\NC Drill\DesignName-BoardRevision-NC Drill.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Outjob-Outputs\Fabrication Files\NC Drill\DesignName-BoardRevision-NC Drill.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=..\Outjob-Outputs\Fabrication Files\NC Drill\DesignName-BoardRevision-NC Drill.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Outjob-Outputs\Fabrication Files\NC Drill\DesignName-BoardRevision-NC Drill.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Outjob-Outputs\Fabrication Files\Pick Place\DesignName-BoardRevision-Pick Place.txt
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Radiation_v3_PCB\Design Rule Check - SiPM_Array_v3.html
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Outjob-Outputs\BOM\SiPM_Array-v1-BOM.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\SiPM_Array-V1-Gerber.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\SiPM_Array-V1-Gerber.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\SiPM_Array-V1-Gerber.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\SiPM_Array-V1-Gerber.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\SiPM_Array-V1-Gerber.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\SiPM_Array-V1-Gerber.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\SiPM_Array-V1-Gerber.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\SiPM_Array-V1-Gerber.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\SiPM_Array-V1-Gerber.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\SiPM_Array-V1-Gerber.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\SiPM_Array-V1-Gerber.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\SiPM_Array-V1-Gerber.REP
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Outjob-Outputs\Fabrication Files\Gerber\SiPM_Array-V1-Gerber.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Outjob-Outputs\Fabrication Files\NC Drill\SiPM_Array-V1-NC Drill.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Outjob-Outputs\Fabrication Files\NC Drill\SiPM_Array-V1-NC Drill.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Outjob-Outputs\Fabrication Files\NC Drill\SiPM_Array-V1-NC Drill.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Outjob-Outputs\Fabrication Files\Pick Place\SiPM_Array-V1-Pick Place.txt
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
