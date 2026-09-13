@@ -50,40 +50,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=SiPM_Array_v3.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RGTYEYGT
-
-[Document2]
-DocumentPath=SiPM_Array_v3.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FJTBQDBX
-
-[Document3]
 DocumentPath=SiPMSensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +66,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GKXIZPKM
 
-[Document4]
+[Document2]
 DocumentPath=..\..\..\..\..\..\eejl609\OneDrive - The University of Auckland\LIB_S14160-6050HS\S14160-6050HS\Altium\S141606050HS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AJOHGKWJ
 
-[Document5]
+[Document3]
 DocumentPath=..\..\..\..\eejl609\OneDrive - The University of Auckland\ul_LTC6401IUD-26-TR\Altium\LTC6401IUD-26TR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WGAAXVSO
 
-[Document6]
+[Document4]
 DocumentPath=..\..\..\..\eejl609\OneDrive - The University of Auckland\ul_LTC6401IUD-26-TR\Altium\LTC6401IUD-26TR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ICJGVTXP
 
-[Document7]
+[Document5]
 DocumentPath=..\..\..\..\eejl609\Downloads\DF17_1.0H_-80DP-0.5V_57_.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document6]
 DocumentPath=..\Libraries\Standard Part Libraries\APSS Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FVFWZRJI
 
-[Document9]
+[Document7]
 DocumentPath=..\Libraries\Standard Part Libraries\APSS Flight Parts.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SSBCEPVD
 
-[Document10]
+[Document8]
 DocumentPath=..\Libraries\Standard Part Libraries\APSS Generic Components.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PLQBJHHT
 
-[Document11]
+[Document9]
 DocumentPath=..\Libraries\Standard Part Libraries\APSS Prototype Parts.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XCKFJLIN
 
-[Document12]
+[Document10]
 DocumentPath=..\Libraries\Standard Part Libraries\APSS Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document11]
 DocumentPath=..\Libraries\Standard Part Libraries\APSS Flight Parts.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document12]
 DocumentPath=..\Libraries\Standard Part Libraries\APSS Generic Components.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document13]
 DocumentPath=..\Libraries\Standard Part Libraries\APSS Prototype Parts.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document14]
 DocumentPath=..\..\..\..\..\..\eejl609\OneDrive - The University of Auckland\LIB_S14160-6050HS\S14160-6050HS\Altium\S14160-6050HS.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AMCKPSBY
 
-[Document17]
+[Document15]
 DocumentPath=..\..\..\..\..\..\eejl609\OneDrive - The University of Auckland\S14160-3050HS\Altium\S14160-3050HS.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BQNYEQQH
 
-[Document18]
+[Document16]
 DocumentPath=..\..\..\..\..\..\eejl609\OneDrive - The University of Auckland\S14160-3050HS\Altium\S141603050HS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AYDJRFMD
 
-[Document19]
+[Document17]
 DocumentPath=..\..\..\..\..\..\eejl609\OneDrive - The University of Auckland\LIB_TMP112AQDRLRQ1\TMP112AQDRLRQ1\Altium\SOTFL50P160X60-6N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVVWZISF
 
-[Document20]
+[Document18]
 DocumentPath=..\..\..\..\..\..\eejl609\OneDrive - The University of Auckland\LIB_TMP112AQDRLRQ1\TMP112AQDRLRQ1\Altium\TMP112AQDRLRQ1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ALYYYXRC
 
-[Document21]
+[Document19]
 DocumentPath=..\..\..\..\..\..\eejl609\Downloads\APSS3Rad.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document20]
 DocumentPath=..\..\..\..\..\..\eejl609\Downloads\APSS3Rad.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TMGVVELM
 
-[Document23]
+[Document21]
 DocumentPath=..\Outputs.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document22]
 DocumentPath=..\..\..\..\..\..\eejl609\OneDrive - The University of Auckland\LIB_S14160-6050HS\S14160-6050HS\Altium\Sensor_Processing.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IHYPDVIB
 
-[Document25]
+[Document23]
 DocumentPath=..\Libraries\LTC6401IUD-26TR.LibPkg
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document24]
 DocumentPath=..\Libraries\ul_LTC6401IUD-26-TR\Altium\LTC6401IUD-26TR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,8 +457,42 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document25]
 DocumentPath=..\Libraries\ul_LTC6401IUD-26-TR\Altium\LTC6401IUD-26TR.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document26]
+DocumentPath=SiPM_Array_v3.2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document27]
+DocumentPath=SiPM_Array_v3.2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -824,36 +824,26 @@ OutputName17=SciCards Netlist
 OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
-OutputType18=SIMetrixNetlist
-OutputName18=SIMetrix
+OutputType18=TangoNetlist
+OutputName18=Tango Netlist
 OutputDocumentPath18=
 OutputVariantName18=
 OutputDefault18=0
-OutputType19=SIMPLISNetlist
-OutputName19=SIMPLIS
+OutputType19=TelesisNetlist
+OutputName19=Telesis Netlist
 OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
-OutputType20=TangoNetlist
-OutputName20=Tango Netlist
+OutputType20=WireListNetlist
+OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=TelesisNetlist
-OutputName21=Telesis Netlist
+OutputType21=XSpiceNetlist
+OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
-OutputType22=WireListNetlist
-OutputName22=WireList Netlist
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=XSpiceNetlist
-OutputName23=Mixed Sim Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -865,16 +855,6 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1115,6 +1095,11 @@ OutputName9=Report Single Pin Nets
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
+OutputType10=BOM_ReportManufacturing
+OutputName10=Manufacturing Data
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1401,6 +1386,16 @@ Type148=1
 Type149=1
 Type150=1
 Type151=1
+Type152=1
+Type153=1
+Type154=1
+Type155=1
+Type156=1
+Type157=1
+Type158=1
+Type159=1
+Type160=1
+Type161=1
 
 [Difference Levels]
 Type1=1
@@ -1485,6 +1480,12 @@ Type79=1
 Type80=1
 Type81=1
 Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
+Type88=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1648,6 +1649,10 @@ Type158=0
 Type159=0
 Type160=0
 Type161=0
+Type162=1
+Type163=1
+Type164=1
+Type165=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW

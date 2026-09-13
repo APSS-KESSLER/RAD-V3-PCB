@@ -2,18 +2,26 @@
 FileName = SiPM_Array-V1-Gerber.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Overlay
-      File : SiPM_Array-V1-Gerber.GTO
+Generating : Top Layer
+      File : SiPM_Array-V1-Gerber.GTL
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
     D14
+    D15
+    D16
+    D17
+    D18
+    D24
+    D27
+    D28
+    D29
+    D30
+    D31
 *************************************************************
 
 *************************************************************
@@ -26,33 +34,26 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D23
-    D26
-    D27
+    D24
     D28
     D29
     D30
+    D31
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : SiPM_Array-V1-Gerber.GTS
+Generating : Top Overlay
+      File : SiPM_Array-V1-Gerber.GTO
 
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
-    D15
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
+    D10
+    D11
+    D12
+    D13
+    D14
 *************************************************************
 
 *************************************************************
@@ -89,6 +90,54 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Overlay
+      File : SiPM_Array-V1-Gerber.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D14
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Board Shape
+      File : SiPM_Array-V1-Gerber.GM5
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : SiPM_Array-V1-Gerber.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
 Generating : Bottom Solder
       File : SiPM_Array-V1-Gerber.GBS
 
@@ -100,46 +149,10 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D22
     D23
     D24
-    D31
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : SiPM_Array-V1-Gerber.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D11
-    D13
-    D26
-    D32
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : SiPM_Array-V1-Gerber.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D23
     D25
     D26
-    D27
-    D28
-    D29
 *************************************************************
 
 *************************************************************
