@@ -1,0 +1,24 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 9:07:00 pm On 19/11/2026
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [RAD_V3_Signal_Conditioning.PcbDoc]
+   Generated File[RAD_V3_Signal_Conditioning.GTO]
+   Generated File[RAD_V3_Signal_Conditioning.GTP]
+   Generated File[RAD_V3_Signal_Conditioning.GTS]
+   Generated File[RAD_V3_Signal_Conditioning.GTL]
+   Generated File[RAD_V3_Signal_Conditioning.GBL]
+   Generated File[RAD_V3_Signal_Conditioning.GBS]
+   Generated File[RAD_V3_Signal_Conditioning.GBP]
+   Generated File[RAD_V3_Signal_Conditioning.GBO]
+   Generated File[RAD_V3_Signal_Conditioning.GM]
+   Generated File[RAD_V3_Signal_Conditioning.EXTREP]
+   Generated File[RAD_V3_Signal_Conditioning.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 9:07:01 pm On 19/11/2026
