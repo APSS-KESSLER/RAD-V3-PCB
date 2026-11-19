@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Rad_v3 Interposer.PcbDoc]
+   Generated File[Rad_v3 Interposer.TXT]
+   Generated File[Rad_v3 Interposer.LDP]
+   Generated File[Rad_v3 Interposer.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:13:49 pm On 19/11/2026
